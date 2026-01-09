@@ -241,7 +241,7 @@ Agora montando o algorítmo da rede neural, ficamos com
 $$
 \begin{cases}
 w_k^{n+1} = w_k^{n} - μ\nabla J_{w_k} \\
-\theta^{n+1} = \theta^{n} - μ\nabla J_{\theta}
+\theta^{n+1} = \theta^{n} - \mu \nabla J_{\theta}
 \end{cases}
 $$
 
