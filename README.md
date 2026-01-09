@@ -1,7 +1,7 @@
-# **Machine_learning_e_otimizacao**
-Este repositório contempla um projeto de machine learning onde precisamos ajustar um conjunto de pontos por uma reta, e precisamos achar a melhor equação da reta.
+# **Aprendizado Supervisionado**
+Este repositório contempla projetos de aprendizado supervisionado para praticar o aprendizado de redes neurais.
 
-#**Problemas Supervisionados e Aprendizado de Maquina**
+#**Aprendizado Supervisionado por Gradiente Descendente**
 Um clássico problema na literatura matemática é o problema de um ajuste de curva a partir de pontos experimentais de um certo experimento físico, onde é requerido um modelo capaz de melhor se ajustar ao formato dos pontos.
 Considere agora o seguinte problema onde temos os pontos de entrada de um sistema, e também os pontos de saída, então.
 
@@ -116,7 +116,7 @@ $$
 
 
 
-#**Gradiente descendente multidimensional**
+#**Regressão linear múltiplas**
 A extensão do modelo linear para multiplas dimensões permite mapear pontos experimentais de um certo experimento físico, através de um modelo, nesse caso linear.
 Considere agora o seguinte problema onde temos várias entradas $x_{ij}$  em um sistema, e também os pontos de saída $y_i$, então
 
